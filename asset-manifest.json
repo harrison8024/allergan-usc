@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.139b3303.chunk.css",
-  "main.js": "/static/js/main.ca49cf04.chunk.js",
-  "main.js.map": "/static/js/main.ca49cf04.chunk.js.map",
+  "main.js": "/static/js/main.342ddfc8.chunk.js",
+  "main.js.map": "/static/js/main.342ddfc8.chunk.js.map",
   "static/css/1.b293eac9.chunk.css": "/static/css/1.b293eac9.chunk.css",
   "static/js/1.2e3fb823.chunk.js": "/static/js/1.2e3fb823.chunk.js",
   "static/js/1.2e3fb823.chunk.js.map": "/static/js/1.2e3fb823.chunk.js.map",
@@ -12,6 +12,6 @@
   "static/media/usc-pharm.jpg": "/static/media/usc-pharm.af4315f3.jpg",
   "static/css/1.b293eac9.chunk.css.map": "/static/css/1.b293eac9.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.f932dba6572d6cd4aea93a9aa29fad3c.js": "/precache-manifest.f932dba6572d6cd4aea93a9aa29fad3c.js",
+  "precache-manifest.97b0d817365260a26b06c1b509af78ce.js": "/precache-manifest.97b0d817365260a26b06c1b509af78ce.js",
   "service-worker.js": "/service-worker.js"
 }
